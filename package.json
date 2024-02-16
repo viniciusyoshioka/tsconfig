@@ -1,0 +1,11 @@
+{
+    "name": "@vinicius1313/tsconfig",
+    "description": "TypeScript configuration",
+    "version": "1.0.0",
+    "license": "MIT",
+    "main": "tsconfig.json",
+    "files": [
+        "tsconfig.json"
+    ],
+    "scripts": {}
+}
