@@ -5,7 +5,26 @@
     "license": "MIT",
     "main": "tsconfig.json",
     "files": [
+        "README.md",
         "tsconfig.json"
+    ],
+    "author": "Vinicius Yoshioka <71671043+viniciusyoshioka@users.noreply.github.com> (https://github.com/viniciusyoshioka)",
+    "repository": "https://github.com/viniciusyoshioka/tsconfig",
+    "bugs": {
+        "url": "https://github.com/viniciusyoshioka/tsconfig/issues"
+    },
+    "homepage": "https://github.com/viniciusyoshioka/tsconfig",
+    "publishConfig": {
+        "registry": "https://registry.npmjs.org/"
+    },
+    "keywords": [
+        "TypeScript",
+        "TS",
+        "configuration",
+        "config",
+        "tsconfig",
+        "react",
+        "react-native"
     ],
     "scripts": {}
 }
