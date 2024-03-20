@@ -9,7 +9,10 @@
         "tsconfig.json"
     ],
     "author": "Vinicius Yoshioka <71671043+viniciusyoshioka@users.noreply.github.com> (https://github.com/viniciusyoshioka)",
-    "repository": "https://github.com/viniciusyoshioka/tsconfig",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/viniciusyoshioka/tsconfig.git"
+    },
     "bugs": {
         "url": "https://github.com/viniciusyoshioka/tsconfig/issues"
     },
