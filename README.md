@@ -8,7 +8,11 @@ Install this library with:
 
 ```sh
 npm install -D @vinicius1313/tsconfig
-# or
+```
+
+or
+
+```sh
 yarn add -D @vinicius1313/tsconfig
 ```
 
