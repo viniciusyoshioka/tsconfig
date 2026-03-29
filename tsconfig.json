@@ -68,7 +68,7 @@
         "outDir": "./dist/module",
         "removeComments": true,
         "importHelpers": true,
-        "downlevelIteration": true,
+        // "downlevelIteration": true,
         // "sourceRoot": "",
         // "mapRoot": "",
         // "inlineSources": true,
