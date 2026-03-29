@@ -22,6 +22,13 @@ or
 yarn add -D @vinicius1313/tsconfig
 ```
 
+## Version compatibility
+
+| Library version | TypeScript version |
+|-----------------|--------------------|
+| `>=3.0.0`       | `>=6.0`            |
+| `<=2.0.0`       | `<6.0`             |
+
 ## Usage
 
 Edit your `tsconfig.json` file to extend this library:
