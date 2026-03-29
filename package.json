@@ -5,7 +5,6 @@
     "license": "MIT",
     "main": "tsconfig.json",
     "files": [
-        "README.md",
         "tsconfig.json"
     ],
     "author": "Vinicius Yoshioka <71671043+viniciusyoshioka@users.noreply.github.com> (https://github.com/viniciusyoshioka)",
