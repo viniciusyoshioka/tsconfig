@@ -113,10 +113,15 @@
         "allowUnreachableCode": false,
 
         /* Backwards Compatibility */
+        // "charset": "utf8",
         // "noImplicitUseStrict": true,
         // "noStrictGenericChecks": true,
         // "suppressExcessPropertyErrors": true,
         // "suppressImplicitAnyIndexErrors": true,
+        // "importsNotUsedAsValues": "remove",
+        // "keyofStringsOnly": false,
+        // "out": "dist",
+        // "preserveValueImports": false,
 
         /* Compiler Diagnostics */
         // "diagnostics": true,
@@ -139,5 +144,11 @@
         /* Completeness */
         // "skipDefaultLibCheck": true,
         "skipLibCheck": true
+
+        /* Watch mode */
+        // "watch": null,
+        // "watchFile": "useFsEvents",
+        // "watchDirectory": "useFsEvents",
+        // "fallbackPolling": "dynamicPriorityPolling"
     }
 }
