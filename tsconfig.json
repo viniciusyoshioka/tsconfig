@@ -67,7 +67,7 @@
         // "outFile": ".",
         "outDir": "./dist/module",
         "removeComments": true,
-        "importHelpers": true,
+        // "importHelpers": true,
         // "downlevelIteration": true,
         // "sourceRoot": "",
         // "mapRoot": "",
